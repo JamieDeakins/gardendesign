@@ -28,16 +28,20 @@ function formatHeight(mean, max) {
 }
 
 function SpeciesCard({ species }) {
+  function handleDragStart(e) {
+    e.dataTransfer.setData("application/json", JSON.stringify(species))
+  }
+
   return (
-    <div className="card" draggable="true">
+    <div className="card" draggable="true" onDragStart={handleDragStart}>
       <div className="card-name">{species.resolved_name}</div>
       <div className="card-meta">
         {species.constancy && (
           <span className="pill">{species.constancy}</span>
         )}
         {formatHeight(species.mean_veg_height, species.max_veg_height) && (
-  <span className="pill">{formatHeight(species.mean_veg_height, species.max_veg_height)}</span>
-)}
+          <span className="pill">{formatHeight(species.mean_veg_height, species.max_veg_height)}</span>
+        )}
         {species.predicted_CSR && (
           <span className="pill">{species.predicted_CSR}</span>
         )}
@@ -62,6 +66,25 @@ function GrowthFormGroup({ label, icon, species }) {
   ))}
 </div>
       )}
+    </div>
+  )
+}
+
+function Canvas() {
+  function handleDragOver(e) {
+    e.preventDefault()
+  }
+
+  function handleDrop(e) {
+    e.preventDefault()
+    const data = e.dataTransfer.getData("application/json")
+    const species = JSON.parse(data)
+    console.log("dropped:", species)
+  }
+
+  return (
+    <div className="canvas" onDragOver={handleDragOver} onDrop={handleDrop}>
+      <p>Drop plants here</p>
     </div>
   )
 }
@@ -174,7 +197,7 @@ function App() {
         </div>
       )}
     </div>
-
+    <Canvas />
   </div>
 )
 }
