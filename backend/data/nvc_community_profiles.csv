@@ -1,0 +1,283 @@
+community_code,community_level,community_name,ellenberg_R_mean,ellenberg_F_mean,ellenberg_L_mean,ellenberg_N_mean,n_species_total,n_species_matched,pct_matched
+A1,A1,Lemna gibba community,7.08,10.92,7.16,6.68,17,17,100.0
+A10,A10,Polygonum amphibium community,6.29,10.5,7.08,5.5,14,14,100.0
+A11,A11,Potamogeton pectinatus-Myriophyllum spicatum community,6.79,11.26,6.76,5.62,50,50,100.0
+A12,A12,Potamogeton pectinatus community,7.19,11.48,6.76,6.76,15,15,100.0
+A13,A13,Potamogeton perfoliatus-Myriophyllum alterniflorum community,6.09,11.2,7.0,4.53,51,51,100.0
+A14,A14,Myriophyllum alterniflorum community,5.5,10.94,7.06,3.5,11,11,100.0
+A15,A15,Elodea canadensis community,7.04,11.41,6.74,6.37,20,20,100.0
+A16,A16,Callitriche stagnalis community,6.85,10.88,6.52,6.48,7,7,100.0
+A17,A17,Ranunculus penicillatus ssp. pseudofluitans community,7.15,10.75,7.0,5.9,11,11,100.0
+A18,A18,Ranunculus fluitans community,7.13,11.2,7.07,6.87,10,10,100.0
+A19,A19,Ranunculus aquatilis community,6.92,10.88,6.77,6.15,15,15,100.0
+A2,A2,Lemna minor community,7.0,11.05,6.87,6.18,14,14,100.0
+A20,A20,Ranunculus peltatus community,6.5,10.69,6.96,6.42,15,15,100.0
+A21,A21,Ranunculus baudotii community,7.69,10.77,7.0,6.85,14,14,100.0
+A22,A22,Littorella uniflora-Lobelia dortmanna community,5.12,10.27,7.3,2.14,17,17,100.0
+A23,A23,Isoetes lacustris/setacea community,5.32,11.44,6.96,3.16,16,16,100.0
+A24,A24,Juncus bulbosus community,5.09,10.87,7.18,3.34,14,14,100.0
+A3,A3,Spirodela polyrhiza-Hydrocharis morsus-ranae community,7.08,11.0,7.04,6.61,17,17,100.0
+A4,A4,Hydrocharis morsus-ranae-Stratiotes aloides community,7.01,11.07,6.75,6.26,25,25,100.0
+A5,A5,Ceratophyllum demersum community,7.29,11.41,6.83,6.92,17,17,100.0
+A7,A7,Nymphaea alba community,6.01,11.03,7.19,4.21,14,14,100.0
+A8,A8,Nuphar lutea community,6.76,11.01,6.95,5.76,36,36,100.0
+A9,A9,Potamogeton natans community,6.39,10.82,6.85,4.79,19,19,100.0
+CG1,CG1,Festuca ovina-Carlina vulgaris grassland,6.58,4.07,7.5,2.85,83,83,100.0
+CG10,CG10,Festuca ovina-Agrostis capillaris-Thymus praecox grassland,4.97,5.57,7.06,2.99,95,95,100.0
+CG11,CG11,Festuca ovina-Agrostis capillaris-Alchemilla alpina grass-heath,4.33,5.84,6.93,2.9,83,83,100.0
+CG12,CG12,Festuca ovina-Alchemilla alpina-Silene acaulis dwarf-herb community,4.68,5.8,7.24,2.86,76,76,100.0
+CG13,CG13,Dryas octopetala-Carex flacca heath,5.59,5.26,7.31,3.01,67,67,100.0
+CG14,CG14,Dryas octopetala-Silene acaulis ledge community,5.62,5.83,7.2,2.82,97,97,100.0
+CG2,CG2,Festuca ovina-Avenula pratensis grassland,6.58,4.44,7.26,3.25,112,112,100.0
+CG3,CG3,Bromus erectus grassland,6.76,4.43,7.27,3.48,106,106,100.0
+CG4,CG4,Brachypodium pinnatum grassland,6.42,4.57,7.15,3.62,84,84,100.0
+CG5,CG5,Bromus erectus-Brachypodium pinnatum grassland,6.84,4.27,7.22,3.07,83,83,100.0
+CG6,CG6,Avenula pubescens grassland,6.58,4.52,7.22,3.65,78,78,100.0
+CG7,CG7,Festuca ovina-Hieracium pilosella-Thymus praecox/pulegioides grassland,6.5,4.41,7.4,3.37,84,84,100.0
+CG8,CG8,Sesleria albicans-Scabiosa columbaria grassland,6.52,4.46,7.13,3.04,68,68,100.0
+CG9,CG9,Sesleria albicans-Galium sterneri grassland,6.12,4.94,7.29,2.55,74,74,100.0
+H1,H1,Calluna vulgaris-Festuca ovina heath,2.72,5.14,7.11,2.15,16,16,100.0
+H10,H10,Calluna vulgaris-Erica cinerea heath,3.36,5.94,6.85,2.39,44,44,100.0
+H11,H11,Calluna vulgaris-Carex arenaria heath,3.82,4.54,7.3,2.45,33,33,100.0
+H12,H12,Calluna vulgaris-Vaccinium myrtillus heath,2.77,5.8,6.48,2.35,36,36,100.0
+H13,H13,Calluna vulgaris-Cladonia arbuscula heath,2.23,5.8,6.71,2.32,23,23,100.0
+H14,H14,Calluna vulgaris-Racomitrium lanuginosum heath,2.61,5.89,6.81,2.28,33,33,100.0
+H15,H15,Calluna vulgaris-Juniperus communis ssp. nana heath,2.84,6.02,7.0,2.28,25,25,100.0
+H16,H16,Calluna vulgaris-Arctostaphylos uva-ursi heath,2.85,5.5,6.41,2.35,37,37,100.0
+H17,H17,Calluna vulgaris-Arctostaphylos alpinus heath,2.62,5.8,6.81,2.42,28,28,100.0
+H18,H18,Vaccinium myrtillus-Deschampsia flexuosa heath,3.18,5.58,6.37,2.77,46,46,100.0
+H19,H19,Vaccinium myrtillus-Cladonia arbuscula heath,2.71,5.6,6.61,2.53,24,24,100.0
+H2,H2,Calluna vulgaris-Ulex minor heath,2.12,5.9,7.11,1.99,20,20,100.0
+H20,H20,Vaccinium myrtillus-Racomitrium lanuginosum heath,3.11,5.7,6.42,2.73,41,41,100.0
+H21,H21,Calluna vulgaris-Vaccinium myrtillus-Sphagnum capillifolium heath,2.56,5.84,5.96,2.44,33,33,100.0
+H22,H22,Vaccinium myrtillus-Rubus chamaemorus heath,2.11,6.3,6.32,2.12,21,21,100.0
+H3,H3,Ulex minor-Agrostis curtisii heath,2.12,6.25,7.29,1.73,18,18,100.0
+H4,H4,Ulex gallii-Agrostis curtisii heath,2.61,6.31,7.15,1.95,37,37,100.0
+H5,H5,Erica vagans-Schoenus nigricans heath,4.51,7.1,7.38,2.39,45,45,100.0
+H6,H6,Erica vagans-Ulex europaeus heath,4.46,5.27,7.07,2.5,56,56,100.0
+H7,H7,Calluna vulgaris-Scilla verna heath,4.87,5.25,7.4,2.95,64,64,100.0
+H8,H8,Calluna vulgaris-Ulex gallii heath,3.69,5.38,6.92,2.51,50,50,100.0
+H9,H9,Calluna vulgaris-Deschampsia flexuosa heath,2.32,5.83,6.71,2.39,17,17,100.0
+M1,M1,Sphagnum auriculatum bog pool community,3.03,9.31,8.06,1.97,19,19,100.0
+M10,M10,Carex dioica-Pinguicula vulgaris mire,5.63,7.59,7.74,2.56,76,76,100.0
+M11,M11,Carex demissa-Saxifraga aizoides mire,5.38,7.45,7.73,2.67,62,62,100.0
+M12,M12,Carex saxatilis mire,4.92,7.33,7.57,2.81,49,49,100.0
+M13,M13,Schoenus nigricans-Juncus subnodulosus mire,5.64,7.73,7.44,3.24,85,85,100.0
+M14,M14,Schoenus nigricans-Narthecium ossifragum mire,3.35,8.29,7.92,2.0,21,21,100.0
+M15,M15,Scirpus cespitosus-Erica tetralix wet heath,2.97,7.34,7.38,2.15,56,56,100.0
+M16,M16,Erica tetralix-Sphagnum compactum wet heath,2.56,7.48,7.67,1.94,38,38,100.0
+M17,M17,Scirpus cespitosus-Eriophorum vaginatum blanket mire,2.41,7.62,7.54,1.79,33,33,100.0
+M18,M18,Erica tetralix-Sphagnum papillosum raised and blanket mire,1.98,8.03,7.73,1.49,18,18,100.0
+M19,M19,Calluna vulgaris-Eriophorum vaginatum blanket mire,2.18,7.12,7.05,1.78,32,32,100.0
+M2,M2,Sphagnum cuspidatum/recurvum bog pool community,2.22,8.57,7.99,1.62,17,17,100.0
+M20,M20,Eriophorum vaginatum blanket and raised mire,2.37,7.45,7.29,1.68,10,10,100.0
+M21,M21,Narthecium ossifragum-Sphagnum papillosum valley mire,2.55,8.2,7.83,1.86,30,30,100.0
+M22,M22,Juncus subnodulosus-Cirsium palustre fen-meadow,5.94,7.65,7.16,4.39,106,106,100.0
+M23,M23,Juncus effusus/acutiflorus-Galium palustre rush-pasture,4.84,7.51,7.14,3.89,66,66,100.0
+M24,M24,Molinia caerulea-Cirsium dissectum fen-meadow,5.17,7.4,7.28,3.36,80,80,100.0
+M25,M25,Molinia caerulea-Potentilla erecta mire,4.13,7.39,7.25,2.97,64,64,100.0
+M26,M26,Molinia caerulea-Crepis paludosa mire,5.34,7.12,7.19,3.54,50,50,100.0
+M27,M27,Filipendula ulmaria-Angelica sylvestris mire,5.83,7.46,7.04,4.97,91,91,100.0
+M28,M28,Iris pseudacorus-Filipendula ulmaria mire,5.97,7.28,7.05,5.43,63,63,100.0
+M29,M29,Hypericum elodes-Potamogeton polygonifolius soakway,3.95,8.85,7.63,2.56,49,49,100.0
+M3,M3,Eriophorum angustifolium bog pool community,3.0,8.8,7.9,1.8,6,6,100.0
+M31,M31,Anthelia julacea-Sphagnum auriculatum spring,4.03,7.3,7.23,2.67,24,24,100.0
+M32,M32,Philonotis fontana-Saxifraga stellaris spring,4.85,7.37,7.23,3.59,53,53,100.0
+M33,M33,Pohlia wahlenbergii var. glacialis spring,5.0,7.12,7.0,4.6,11,11,100.0
+M34,M34,Carex demissa-Koenigia islandica flush,5.25,7.79,7.5,2.12,14,14,100.0
+M35,M35,Ranunculus omiophyllus-Montia fontana rill,5.0,8.37,7.12,4.02,34,34,100.0
+M37,M37,Cratoneuron commutatum-Festuca rubra spring,5.6,7.18,7.33,3.67,43,43,100.0
+M38,M38,Cratoneuron commutatum-Carex nigra spring,5.25,7.24,7.49,3.39,66,66,100.0
+M4,M4,Carex rostrata-Sphagnum recurvum mire,3.98,8.28,7.46,2.89,34,34,100.0
+M5,M5,Carex rostrata-Sphagnum squarrosum mire,4.41,8.37,7.3,3.26,32,32,100.0
+M6,M6,Carex echinata-Sphagnum recurvum/auriculatum mire,3.36,7.91,7.49,2.45,40,40,100.0
+M7,M7,Carex curta-Sphagnum russowii mire,3.28,7.71,7.34,2.4,26,26,100.0
+M8,M8,Carex rostrata-Sphagnum warnstorfii mire,4.28,7.52,7.36,2.77,58,58,100.0
+M9,M9,Carex rostrata-Calliergon cuspidatum/giganteum mire,5.19,8.48,7.43,3.27,69,69,100.0
+MC1,MC1,Crithmum maritimum-Spergularia rupicola maritime rock-crevice community,6.39,6.12,8.48,4.81,19,19,100.0
+MC10,MC10,Festuca rubra-Plantago spp. maritime grassland,5.55,5.88,7.56,3.46,60,60,100.0
+MC11,MC11,Festuca rubra-Daucus carota ssp. gummifer maritime grassland,6.49,4.56,7.48,4.03,62,62,100.0
+MC12,MC12,Festuca rubra-Hyacinthoides non-scripta maritime bluebell community,5.81,5.15,6.93,4.8,35,35,100.0
+MC2,MC2,Armeria maritima-Ligusticum scoticum maritime rock-crevice community,6.17,6.0,7.86,4.63,16,16,100.0
+MC3,MC3,Rhodiola rosea-Armeria maritima maritime cliff-ledge community,5.93,5.79,7.33,4.52,16,16,100.0
+MC4,MC4,Brassica oleracea maritime cliff-ledge community,6.58,4.53,7.57,4.82,33,33,100.0
+MC5,MC5,Armeria maritima-Cerastium diffusum ssp. diffusum maritime therophyte community,6.04,4.63,7.91,3.6,68,68,100.0
+MC6,MC6,Atriplex prostrata-Beta vulgaris ssp. maritima sea-bird cliff community,6.37,5.56,8.05,5.73,16,16,100.0
+MC7,MC7,Stellaria media-Rumex acetosa sea-bird cliff community,5.98,5.69,7.49,5.42,24,24,100.0
+MC8,MC8,Festuca rubra-Armeria maritima maritime grassland,6.2,5.42,7.83,4.49,41,41,100.0
+MC9,MC9,Festuca rubra-Holcus lanatus maritime grassland,5.7,5.15,7.25,3.94,61,61,100.0
+MG1,MG1,Arrhenatherum elatius grassland,6.37,5.08,6.95,5.18,97,97,100.0
+MG10,MG10,Holcus lanatus-Juncus effusus rush-pasture,5.99,6.69,7.07,5.54,53,53,100.0
+MG11,MG11,Festuca rubra-Agrostis stolonifera-Potentilla anserina grassland,6.34,5.68,7.34,5.61,58,58,100.0
+MG12,MG12,Festuca arundinacea grassland,6.5,6.23,7.44,5.28,52,52,100.0
+MG13,MG13,Agrostis stolonifera-Alopecurus geniculatus grassland,6.1,7.19,7.31,5.52,39,39,100.0
+MG2,MG2,Arrhenatherum elatius-Filipendula ulmaria tall-herb grassland,6.11,5.67,6.28,5.17,74,74,100.0
+MG3,MG3,Anthoxanthum odoratum-Geranium sylvaticum grassland,5.81,5.27,7.08,4.54,78,78,100.0
+MG4,MG4,Alopecurus pratensis-Sanguisorba officinalis grassland,6.07,5.58,7.22,4.63,65,65,100.0
+MG5,MG5,Cynosurus cristatus-Centaurea nigra grassland,5.95,5.1,7.23,4.19,73,73,100.0
+MG6,MG6,Lolium perenne-Cynosurus cristatus grassland,5.93,5.27,7.2,4.92,48,48,100.0
+MG7a,MG7,"Lolium perenne leys and related grasslands, Lolium perenne-Trifolium repens leys",6.09,5.37,7.06,5.5,43,43,100.0
+MG8,MG8,Cynosurus cristatus-Caltha palustris grassland,5.82,6.22,7.23,4.46,63,63,100.0
+MG9,MG9,Holcus lanatus-Deschampsia cespitosa grassland,5.93,6.01,7.05,4.9,73,73,100.0
+OV1,OV1,Viola arvensis-Aphanes microcarpa community,5.52,4.68,7.1,5.4,29,29,100.0
+OV10,OV10,Poa annua-Senecio vulgaris community,6.48,5.19,6.95,6.43,69,69,100.0
+OV11,OV11,Poa annua-Stachys arvensis community,6.13,5.21,6.93,6.34,53,52,98.1
+OV12,OV12,Poa annua-Myosotis arvensis community,6.39,5.34,6.86,6.69,30,30,100.0
+OV13,OV13,Stellaria media-Capsella bursa-pastoris community,6.72,5.18,6.96,7.06,55,54,98.2
+OV14,OV14,Urtica urens-Lamium amplexicaule community,6.42,5.06,6.93,7.17,30,30,100.0
+OV15,OV15,Anagallis arvensis-Veronica persica community,6.76,4.87,6.73,5.88,52,52,100.0
+OV16,OV16,Papaver rhoeas-Silene noctiflora community,6.81,4.84,6.93,6.51,39,39,100.0
+OV17,OV17,Reseda lutea-Polygonum aviculare community,6.8,4.68,7.0,6.32,46,46,100.0
+OV18,OV18,Polygonum aviculare-Chamomilla suaveolens community,6.68,5.01,7.06,6.63,43,43,100.0
+OV19,OV19,Poa annua-Matricaria perforata community,6.61,5.2,7.06,6.5,75,75,100.0
+OV2,OV2,Briza minor-Silene gallica community,5.37,4.21,7.21,4.07,56,56,100.0
+OV20,OV20,Poa annua-Sagina procumbens community,6.41,5.44,7.17,6.26,30,30,100.0
+OV21,OV21,Poa annua-Plantago major community,6.38,5.39,7.12,6.29,60,60,100.0
+OV22,OV22,Poa annua-Taraxacum officinale community,6.59,5.15,7.19,6.58,61,61,100.0
+OV23,OV23,Lolium perenne-Dactylis glomerata community,6.5,5.02,7.12,5.7,71,71,100.0
+OV24,OV24,Urtica dioica-Galium aparine community,6.77,5.34,6.83,6.8,51,51,100.0
+OV25,OV25,Urtica dioica-Cirsium arvense community,6.88,5.28,7.17,6.58,61,61,100.0
+OV26,OV26,Epilobium hirsutum community,6.55,7.44,6.93,6.1,87,87,100.0
+OV27,OV27,Epilobium angustifolium community,5.59,5.41,6.36,5.06,77,77,100.0
+OV28,OV28,Agrostis stolonifera-Ranunculus repens community,6.3,6.17,6.97,6.64,29,29,100.0
+OV29,OV29,,6.69,7.25,7.12,6.48,30,30,100.0
+OV3,OV3,Papaver rhoeas-Viola arvensis community,6.61,4.92,7.0,6.2,49,49,100.0
+OV30,OV30,Bidens tripartita-Polygonum amphibium community,6.15,7.77,7.23,6.13,33,33,100.0
+OV31,OV31,,6.23,7.46,7.11,5.82,30,30,100.0
+OV32,OV32,Myosotis scorpioides-Ranunculus sceleratus community,6.51,8.2,7.27,6.37,46,46,100.0
+OV33,OV33,Polygonum lapathifolium-Poa annua community,6.42,5.31,6.96,6.58,50,50,100.0
+OV34,OV34,Allium schoenoprasum-Plantago maritima community,5.23,5.49,7.52,2.57,32,32,100.0
+OV35,OV35,Lythrum portula-Ranunculus flammula community,5.45,8.59,7.38,4.41,29,29,100.0
+OV36,OV36,Lythrum hyssopifolia-Juncus bufonius community,6.23,5.67,7.01,5.74,25,25,100.0
+OV37,OV37,Festuca ovina-Minuartia verna community,5.68,4.69,7.31,3.16,32,32,100.0
+OV38,OV38,Gymnocarpium robertianum-Arrhenatherum elatius community,6.17,4.74,6.15,4.42,37,37,100.0
+OV39,OV39,,6.68,3.64,7.16,2.57,30,30,100.0
+OV4,OV4,Chrysanthemum segetum-Spergula arvensis community,6.09,5.24,6.97,6.3,53,53,100.0
+OV40,OV40,Asplenium viride-Cystopteris fragilis community,7.0,5.03,5.88,3.18,16,16,100.0
+OV41,OV41,Parietaria diffusa community,6.96,4.52,7.15,4.78,42,42,100.0
+OV42,OV42,Cymbalaria muralis community,6.65,4.65,6.9,4.92,33,33,100.0
+OV5,OV5,Digitaria ischaemum-Erodium cicutarium community,5.53,4.9,6.96,5.62,41,41,100.0
+OV6,OV6,Cerastium glomeratum-Fumaria muralis ssp. boraei community,6.16,4.96,6.95,5.88,76,76,100.0
+OV7,OV7,Veronica persica-Veronica polita community,6.79,4.99,6.84,6.83,41,41,100.0
+OV8,OV8,Veronica persica-Alopecurus myosuroides community,6.79,5.12,6.84,6.88,39,39,100.0
+OV9,OV9,Matricaria perforata-Stellaria media community,6.42,5.2,6.98,6.42,67,67,100.0
+S1,S1,Carex elata swamp,5.93,8.72,7.3,4.5,28,28,100.0
+S10,S10,Equisetum fluviatile swamp,5.29,9.32,7.53,4.06,16,16,100.0
+S11,S11,Carex vesicaria swamp,5.36,8.69,7.34,4.42,26,26,100.0
+S12,S12,Typha latifolia swamp,6.12,9.08,7.39,5.68,48,48,100.0
+S13,S13,Typha angustifolia swamp,6.62,9.59,7.24,6.15,30,30,100.0
+S14,S14,Sparganium erectum swamp,6.49,9.08,7.08,6.1,50,50,100.0
+S15,S15,Acorus calamus swamp,6.12,8.57,7.14,6.0,36,36,100.0
+S16,S16,Sagittaria sagittifolia swamp,6.71,9.95,7.0,5.9,15,15,100.0
+S17,S17,Carex pseudocyperus swamp,6.25,8.05,7.16,6.09,35,35,100.0
+S18,S18,Carex otrubae swamp,6.44,7.47,6.91,5.87,50,50,100.0
+S19,S19,Eleocharis palustris swamp,5.92,8.45,7.43,4.37,42,42,100.0
+S2,S2,Cladium mariscus swamp and sedge-beds,6.38,9.52,7.77,4.02,20,20,100.0
+S20,S20,Scirpus lacustris ssp. tabernaemontani swamp,7.26,8.54,8.04,6.53,25,25,100.0
+S21,S21,Scirpus maritimus swamp,6.91,7.76,7.79,6.1,58,57,98.3
+S22,S22,Glyceria fluitans water-margin vegetation,6.54,9.01,7.23,6.44,20,20,100.0
+S23,S23,Other water-margin vegetation,6.72,9.0,7.19,6.3,47,47,100.0
+S24,S24,Phragmites australis-Peucedanum palustris tall-herb fen,6.32,8.56,7.04,5.05,92,92,100.0
+S25,S25,Phragmites australis-Eupatorium cannabinum tall-herb fen,6.35,8.41,7.07,5.23,50,50,100.0
+S26,S26,Phragmites australis-Urtica dioica tall-herb fen,6.68,7.46,6.93,6.4,58,58,100.0
+S27,S27,Carex rostrata-Potentilla palustris tall-herb fen,5.51,8.81,7.23,4.34,66,66,100.0
+S28,S28,Phalaris arundinacea tall-herb fen,6.54,7.6,7.03,6.49,30,30,100.0
+S3,S3,Carex paniculata swamp,5.79,8.38,6.88,5.33,32,32,100.0
+S4a,S4,"Phragmites australis swamp and reed-beds, Phragmites australis sub-community",6.47,8.5,7.6,5.39,92,92,100.0
+S5,S5,Glyceria maxima swamp,6.59,8.63,6.96,6.44,43,43,100.0
+S6,S6,Carex riparia swamp,6.34,8.45,7.06,5.57,42,42,100.0
+S7,S7,Carex acutiformis swamp,6.14,7.78,7.02,5.49,39,39,100.0
+S8,S8,Scirpus lacustris ssp. lacustris swamp,5.95,9.83,7.38,5.03,48,48,100.0
+S9,S9,Carex rostrata swamp,5.1,9.47,7.51,3.35,26,26,100.0
+SD1,SD1,Rumex crispus-Glaucium flavum shingle community,6.72,5.35,7.96,5.72,32,32,100.0
+SD10,SD10,Carex arenaria dune community,5.0,4.35,7.16,3.63,20,20,100.0
+SD11,SD11,Carex arenaria-Cornicularia aculeata dune community,4.2,3.96,7.45,2.57,26,26,100.0
+SD12,SD12,Carex arenaria-Festuca ovina-Agrostis capillaris dune grassland,4.95,4.64,7.08,3.44,42,42,100.0
+SD13,SD13,Sagina nodosa-Bryum pseudotriquetrum dune-slack community,6.16,6.04,7.45,3.9,40,40,100.0
+SD14,SD14,Salix repens-Campylium stellatum dune-slack community,6.24,6.74,7.39,3.82,84,84,100.0
+SD15,SD15,Salix repens-Calliergon cuspidatum dune-slack community,6.0,7.32,7.24,4.14,81,81,100.0
+SD16,SD16,Salix repens-Holcus lanatus dune-slack community,6.09,5.76,7.29,3.77,71,71,100.0
+SD17,SD17,Potentilla anserina-Carex nigra dune-slack community,5.82,6.82,7.25,4.36,72,72,100.0
+SD18,SD18,Hippophae rhamnoides dune scrub,6.56,4.93,7.53,5.17,48,48,100.0
+SD19,SD19,Phleum arenarium-Arenaria serpyllifolia dune annual community,5.73,3.68,7.96,3.11,36,36,100.0
+SD2,SD2,Honkenya peploides-Cakile maritima strandline community,6.72,5.45,8.2,6.45,29,29,100.0
+SD3,SD3,Matricaria maritima-Galium aparine strandline community,6.67,5.9,7.48,6.45,26,26,100.0
+SD4,SD4,Elymus farctus ssp. boreali-atlanticus foredune community,6.76,5.21,8.24,6.14,26,26,100.0
+SD5,SD5,Leymus arenarius mobile dune community,6.61,5.3,8.0,5.88,18,18,100.0
+SD6,SD6,Ammophila arenaria mobile dune community,6.37,4.75,7.87,5.27,42,42,100.0
+SD7,SD7,Ammophila arenaria-Festuca rubra semi-fixed dune community,5.95,4.33,7.62,3.94,73,73,100.0
+SD8,SD8,Festuca rubra-Galium verum fixed dune grassland,5.98,4.6,7.28,3.84,88,88,100.0
+SD9,SD9,Ammophila arenaria-Arrhenatherum elatius dune grassland,6.22,4.56,7.23,4.35,54,54,100.0
+SM1a,SM1,,7.17,11.5,6.5,6.0,2,2,100.0
+SM10,SM10,"Transitional low-marsh vegetation with Puccinellia maritima, annual Salicornia species and Suaeda maritima",7.0,7.86,8.59,5.82,10,9,90.0
+SM11,SM11,Aster tripolium var. discoideus salt-marsh community,7.26,8.0,8.68,5.79,7,7,100.0
+SM12a,SM12,,7.16,7.92,8.35,5.94,13,12,92.3
+SM13a,SM13,"Puccinellia maritima salt-marsh community, Puccinellia maritima sub-community",6.92,7.29,8.32,5.27,19,18,94.7
+SM14,SM14,Halimione portulacoides salt-marsh community,7.26,7.46,8.64,5.63,15,14,93.3
+SM15,SM15,Juncus maritimus-Triglochin maritima salt-marsh community,6.98,7.16,8.33,5.47,22,22,100.0
+SM16a,SM16,"Festuca rubra salt-marsh community, Puccinellia maritima sub-community",6.6,6.3,7.89,4.94,26,26,100.0
+SM17,SM17,Artemisia maritima salt-marsh community,7.02,6.56,8.4,5.36,23,23,100.0
+SM18,SM18,Juncus maritimus salt-marsh community,6.74,6.34,7.84,5.34,30,30,100.0
+SM19,SM19,Blysmus rufus salt-marsh community,6.68,7.02,7.98,4.77,22,22,100.0
+SM2,SM2,Ruppia maritima salt-marsh community,8.0,10.0,9.0,8.0,1,1,100.0
+SM20,SM20,Eleocharis uniglumis salt-marsh community,6.61,7.45,7.76,5.0,24,24,100.0
+SM21,SM21,Suaeda vera-Limonium binervosum salt-marsh community,7.3,7.33,8.61,5.22,20,20,100.0
+SM22,SM22,Halimione portulacoides-Frankenia laevis salt-marsh community,7.0,7.29,8.43,4.96,11,11,100.0
+SM23,SM23,Spergularia marina-Puccinellia distans salt-marsh community,7.14,7.27,8.16,5.7,18,18,100.0
+SM24,SM24,Elymus pycnanthus salt-marsh community,6.94,6.5,8.34,5.69,22,21,95.5
+SM25,SM25,Suaeda vera drift-line community,7.29,7.07,8.65,5.53,17,17,100.0
+SM26,SM26,Inula crithmoides stands,7.09,7.1,8.65,5.45,12,12,100.0
+SM28,SM28,Elymus repens salt-marsh community,6.69,6.04,7.51,6.06,49,49,100.0
+SM3,SM3,Eleocharis parvula salt-marsh community,7.0,10.0,7.0,5.0,1,1,100.0
+SM4,SM4,Spartina maritima salt-marsh community,7.7,8.7,8.9,5.4,4,4,100.0
+SM5,SM5,Spartina alterniflora salt-marsh community,7.64,8.64,9.0,6.27,4,4,100.0
+SM6,SM6,Spartina anglica salt-marsh community,7.39,8.06,8.61,5.89,11,10,90.9
+SM7,SM7,Arthrocnemum perenne stands,7.23,7.82,8.73,5.77,7,6,85.7
+SM8,SM8,Annual Salicornia salt-marsh community,7.3,8.2,8.8,5.9,6,5,83.3
+SM9,SM9,Suaeda maritima salt-marsh community,7.29,8.14,8.64,6.21,6,5,83.3
+U1,U1,Festuca ovina-Agrostis capillaris-Rumex acetosella grassland,5.15,4.56,7.17,3.48,91,91,100.0
+U10,U10,Carex bigelowii-Racomitrium lanuginosum moss-heath,3.53,5.54,6.79,2.69,35,35,100.0
+U11,U11,Polytrichum sexangulare-Kiaeria starkei snow-bed,3.48,6.1,6.56,3.13,18,18,100.0
+U12,U12,Salix herbacea-Racomitrium heterostichum snow-bed,3.55,5.59,7.03,2.63,13,13,100.0
+U13,U13,Deschampsia cespitosa-Galium saxatile grassland,3.83,5.75,6.56,3.18,43,43,100.0
+U14,U14,Alchemilla alpina-Sibbaldia procumbens dwarf-herb community,4.15,5.83,7.07,2.88,45,45,100.0
+U15,U15,Saxifraga aizoides-Alchemilla glabra banks,5.57,6.12,7.14,3.02,59,59,100.0
+U16,U16,Luzula sylvatica-Vaccinium myrtillus tall-herb community,3.49,5.81,5.97,3.34,46,46,100.0
+U17,U17,Luzula sylvatica-Geum rivale tall-herb community,5.13,6.04,6.65,3.4,108,108,100.0
+U18,U18,Cryptogramma crispa-Athyrium distentifolium snow-bed,3.47,5.81,6.18,3.37,26,26,100.0
+U19,U19,Thelypteris limbosperma-Blechnum spicant community,3.63,5.7,5.78,3.36,35,35,100.0
+U2,U2,Deschampsia flexuosa grassland,2.94,5.92,6.78,2.76,26,26,100.0
+U20,U20,Pteridium aquilinum-Galium saxatile community,3.74,5.5,6.48,3.21,46,46,100.0
+U21,U21,Cryptogramma crispa-Deschampsia flexuosa community,2.94,5.67,6.33,2.88,18,18,100.0
+U3,U3,Agrostis curtisii grassland,2.89,5.92,6.93,2.23,26,26,100.0
+U4,U4,Festuca ovina-Agrostis capillaris-Galium saxatile grassland,4.34,5.53,6.8,3.26,66,66,100.0
+U5,U5,Nardus stricta-Galium saxatile grassland,3.18,6.19,6.84,2.57,48,48,100.0
+U6,U6,Juncus squarrosus-Festuca ovina grassland,3.0,6.38,6.99,2.32,23,23,100.0
+U7,U7,Nardus stricta-Carex bigelowii grass-heath,2.7,5.97,6.57,2.55,32,32,100.0
+U8,U8,Carex bigelowii-Polytrichum alpinum sedge-heath,3.0,5.51,6.43,2.75,12,12,100.0
+U9,U9,Juncus trifidus-Racomitrium lanuginosum rush-heath,3.24,5.35,6.78,2.63,20,20,100.0
+W1,W1,Salix cinerea-Galium palustre woodland,5.47,8.01,6.79,4.69,56,56,100.0
+W10,W10,Quercus robur-Pteridium aquilinum-Rubus fruticosus woodland,5.1,5.43,5.42,4.98,107,107,100.0
+W11,W11,Quercus petraea-Betula pubescens-Oxalis acetosella woodland,4.09,5.46,5.69,3.89,74,74,100.0
+W12,W12,Fagus sylvatica-Mercurialis perennis woodland,6.42,5.21,4.88,5.75,86,86,100.0
+W13,W13,Taxus baccata woodland,6.77,5.02,5.08,5.91,26,26,100.0
+W14,W14,Fagus sylvatica-Rubus fruticosus woodland,5.27,5.34,4.77,5.06,61,61,100.0
+W15,W15,Fagus sylvatica-Deschampsia flexuosa woodland,3.8,5.32,5.19,3.93,33,33,100.0
+W16,W16,Quercus spp.-Betula spp.-Deschampsia flexuosa woodland,3.61,5.55,5.96,3.69,47,47,100.0
+W17,W17,Quercus petraea-Betula pubescens-Dicranum majus woodland,3.65,5.66,5.64,3.65,67,67,100.0
+W18,W18,Pinus sylvestris-Hylocomium splendens woodland,2.38,5.66,5.97,2.44,29,29,100.0
+W19,W19,Juniperus communis ssp. communis-Oxalis acetosella woodland,3.92,5.49,5.65,3.53,59,59,100.0
+W2,W2,Salix cinerea-Betula pubescens-Phragmites australis woodland,5.54,7.69,6.55,5.08,76,76,100.0
+W20,W20,Salix lapponum-Luzula sylvatica scrub,4.72,5.92,6.7,3.16,59,59,100.0
+W21,W21,Crataegus monogyna-Hedera helix scrub,6.52,5.22,5.64,5.93,78,78,100.0
+W22,W22,Prunus spinosa-Rubus fruticosus scrub,5.49,5.29,5.78,5.48,41,41,100.0
+W23,W23,Ulex europaeus-Rubus fruticosus scrub,4.26,4.97,6.67,3.76,36,36,100.0
+W24,W24,Rubus fruticosus-Holcus lanatus underscrub,6.24,5.52,6.14,5.93,76,76,100.0
+W25,W25,Pteridium aquilinum-Rubus fruticosus underscrub,5.12,5.33,5.99,5.32,50,50,100.0
+W3,W3,Salix pentandra-Carex rostrata woodland,5.53,8.15,6.86,4.41,74,74,100.0
+W4,W4,Betula pubescens-Molinia caerulea woodland,4.02,7.19,6.51,3.57,65,65,100.0
+W5,W5,Alnus glutinosa-Carex paniculata woodland,5.85,7.95,6.36,5.4,96,96,100.0
+W6,W6,Alnus glutinosa-Urtica dioica woodland,5.94,6.82,6.07,6.08,78,78,100.0
+W7,W7,Alnus glutinosa-Fraxinus excelsior-Lysimachia nemorum woodland,5.41,6.82,5.74,5.32,102,102,100.0
+W8,W8,Fraxinus excelsior-Acer campestre-Mercurialis perennis woodland,6.15,5.52,5.16,5.8,142,142,100.0
+W9,W9,Fraxinus excelsior-Sorbus aucuparia-Mercurialis perennis woodland,5.6,5.84,5.38,5.39,101,101,100.0

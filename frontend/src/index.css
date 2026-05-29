@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: #f5f2ed;
+  color: #2a2a2a;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  grid-template-rows: auto 1fr;
+  gap: 2rem;
+}
+
+.app h1 {
+  grid-column: 1 / -1;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.field label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #777;
+}
+
+.field select {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  padding: 8px 10px;
+  border: 0.5px solid #ccc;
+  border-radius: 6px;
+  background: #fff;
+  color: #2a2a2a;
+  width: 100%;
+}
+
+.panel {
+  border: 0.5px solid #d0ccc5;
+  border-radius: 10px;
+  background: #eeebe5;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px 16px;
+  background: #fff;
+  border-bottom: 0.5px solid #d0ccc5;
+}
+
+.panel-header span:first-child {
+  font-size: 12px;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.panel-header span:last-child {
+  font-size: 12px;
+  color: #999;
+}
+.panel-body {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.group {
+  border: 0.5px solid #d0ccc5;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.group-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px 12px;
+  cursor: pointer;
+  user-select: none;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.group-header:hover {
+  background: #faf8f5;
+}
+
+.card-list {
+  padding: 0 8px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.card {
+  background: #faf8f5;
+  border: 0.5px solid #d8d4ce;
+  border-radius: 6px;
+  padding: 9px 12px;
+  cursor: grab;
+}
+
+.card:hover {
+  border-color: #aaa;
+  background: #fff;
+}
+
+.card-name {
+  font-size: 13px;
+  font-style: italic;
+  color: #1a1a1a;
+  margin-bottom: 5px;
+  font-family: 'Playfair Display', serif;
+}
+
+.card-meta {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  font-size: 11px;
+  padding: 2px 7px;
+  border-radius: 99px;
+  border: 0.5px solid #d0ccc5;
+  color: #666;
+  background: #fff;
+}
+
+.controls button {
+  margin-top: 8px;
+  width: 100%;
+  padding: 10px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: #2a2a2a;
+  color: #f5f2ed;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.controls button:hover {
+  background: #444;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 2.2rem;
+  letter-spacing: -0.01em;
+  color: #1a1a1a;
+}
