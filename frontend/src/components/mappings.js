@@ -28,9 +28,9 @@ export const fertilityOptions = [
 ]
 
 export const textureOptions = [
-  { label: "Sandy / light", F_modifier: -1 },
-  { label: "Loamy", F_modifier: 0 },
-  { label: "Clay", F_modifier: 1 },
+  { label: "Sandy / light"},
+  { label: "Loamy"},
+  { label: "Clay"},
 ]
 
 export const nativityOptions = [
